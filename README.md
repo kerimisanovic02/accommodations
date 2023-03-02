@@ -1,5 +1,5 @@
 
-Internship Project
+Project
 ========
 
 # Development
